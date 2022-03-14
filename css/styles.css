@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+
+}
+
+.search-bar{
+    background-color: #EEEEEE;
+    width: 90%;
+}
+
+.links-1{
+    background-color:#7EE5DA;
+    width: 37%;
+}
+
+.links-2{
+    background-color: #70CCC2;
+    font-size: 0.8rem;
+    padding: 0 10px;
+}
+
+.links-3{
+    background-color: #62B3AA;
+    padding: 0 20px;
+}
+
